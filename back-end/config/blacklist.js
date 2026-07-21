@@ -1,0 +1,18 @@
+export const BLACKLIST_WORDS = [
+    "địt",
+    "đụ",
+    "đéo",
+    "dm",
+    "dmẹ",
+    "đm",
+    "vcl",
+    "cc",
+    "cặc",
+    "lồn",
+    "buồi",
+    "đĩ",
+    "điếm",
+    "chó đẻ",
+    "súc vật",
+    "chết",
+  ];
